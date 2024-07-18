@@ -41,3 +41,8 @@ Please open a PR to merge your theme.
 ![](https://github.com/guillaumeboehm/Nordzy-cursors-hyprcursor/blob/main/art/preview-white.png)
 
 ---
+
+## [Future-Cyan Hyprcursor](https://gitlab.com/Pummelfisch/future-cyan-hyprcursor)
+![cursor-showcase](https://gitlab.com/Pummelfisch/future-cyan-hyprcursor/-/raw/main/Preview_dark.png)
+
+---
