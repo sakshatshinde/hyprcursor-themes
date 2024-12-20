@@ -36,9 +36,9 @@ Please open a PR to merge your theme.
 
 ---
 
-## [Nordzy-cursors-hyprcursor](https://github.com/guillaumeboehm/Nordzy-cursors-hyprcursor)
-![](https://github.com/guillaumeboehm/Nordzy-cursors-hyprcursor/blob/main/art/preview-black.png)
-![](https://github.com/guillaumeboehm/Nordzy-cursors-hyprcursor/blob/main/art/preview-white.png)
+## [Nordzy-cursors-hyprcursor](https://github.com/guillaumeboehm/Nordzy-cursors)
+![](https://github.com/guillaumeboehm/Nordzy-cursors/blob/main/resources/preview-black.png)
+![](https://github.com/guillaumeboehm/Nordzy-cursors/blob/main/resources/preview-white.png)
 
 ---
 
