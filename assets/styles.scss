@@ -1,0 +1,52 @@
+---
+# assets/css/style.scss
+# Empty front matter is required
+---
+
+// Import the theme's default styles (syntax might vary slightly by theme)
+// For jekyll-theme-minimal, it often imports automatically or you might not need this.
+// Check the specific theme's documentation if needed.
+
+// Your custom styles go here
+body {
+  line-height: 1.6;
+}
+
+// Make images responsive and add some spacing, border, and shadow
+img {
+  max-width: 100%;
+  height: auto;
+  display: block; // Prevents extra space below images
+  margin: 1.5em auto; // Center images with slightly more vertical space
+
+  // --- Added Styles ---
+  border: 1px solid #ddd;  // Add a light grey 1px solid border
+  border-radius: 4px;      // Optional: Slightly round the corners
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Add a subtle shadow below the image
+  // --- End Added Styles ---
+
+  // Adjust margin if needed to account for shadow/border visual space
+  // margin-top: 1.5em;
+  // margin-bottom: 1.5em;
+}
+
+// Add some visual separation between themes
+hr {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  border-style: dashed;
+  border-color: #ccc;
+  border-width: 1px 0 0 0; // Ensure only top border shows for dashed
+  height: 0;
+}
+
+// Maybe style the main headings
+h2 {
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eee;
+}
+
+h3 {
+    margin-top: 1.5em;
+}

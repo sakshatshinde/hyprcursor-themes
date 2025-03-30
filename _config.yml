@@ -1,0 +1,23 @@
+# _config.yml
+
+# Site Settings
+title: Hyprcursor Themes          # Title that appears in the browser tab
+description: >-                  # Site description for search engines
+  A curated list of publicly available hyprcursor themes.
+repository: sakshatshinde/hyprcursor-themes # Replace with your repo path (e.g., ndom91/hyprcursor-themes-list)
+
+# Build Settings
+markdown: kramdown                # Markdown processor
+theme: jekyll-theme-minimal    # Choose a Jekyll theme supported by GitHub Pages
+plugins:
+  - jekyll-feed                  # Optional: adds an RSS feed
+
+# Optional: Exclude files from processing
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
