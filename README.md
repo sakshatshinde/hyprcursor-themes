@@ -1,9 +1,9 @@
 # hyprcursor-themes
-A list of publicly available hyprcursor themes.
+A list of publicly available hyprcursor themes <br>
+https://sakshatshinde.github.io/hyprcursor-themes/
 
-Please open a PR to merge your theme.
-
-## [rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+Feel free to open a PR to merge your theme
+<!-- ## [rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
 
 ![Cursor showcase](https://github.com/rose-pine/cursor/assets/44733677/0c4f6823-48d5-4ec1-8e1c-201b22463ea1)
 
@@ -45,4 +45,4 @@ Please open a PR to merge your theme.
 ## [Future-Cyan Hyprcursor](https://gitlab.com/Pummelfisch/future-cyan-hyprcursor)
 ![cursor-showcase](https://gitlab.com/Pummelfisch/future-cyan-hyprcursor/-/raw/main/Preview_dark.png)
 
----
+--- -->
