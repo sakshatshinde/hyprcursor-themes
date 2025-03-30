@@ -8,8 +8,7 @@ title: Home     # Title shown on the page itself (theme might override)
 # Hyprcursor Themes
 
 A list of publicly available hyprcursor themes.
-
-Please open a PR to merge your theme into the [source repository](https://github.com/your-username/hyprcursor-themes). 
+Please open a PR to merge your theme into the [repository](https://github.com/sakshatshinde/hyprcursor-themes)
 
 ---
 
